@@ -21,6 +21,6 @@ Features
  - Custom Font
  - Sounds and music
 
-
-
+How to run
+----------
 Run PacManGame.java to start the game.
