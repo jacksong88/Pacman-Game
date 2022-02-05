@@ -24,3 +24,10 @@ Features
 How to run
 ----------
 Run PacManGame.java to start the game.
+
+Previews
+---------
+
+![](preview/Preview1.jpg)
+
+![](preview/Preview2.jpg)
